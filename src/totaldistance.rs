@@ -4,10 +4,8 @@ fn main()
 {
      //variable a is acceleration in in(m/sec^2)
      //varible u is initial velocity in (m/sec)
-    let mut s=0_f64;   //variable s is total distance travelled
-       //variable t1 is the start of time interval in seconds
-       //variable t2 is the end of time interval in seconds
-         //variable i is used to iterate from t1 to t2
+     //variable t is the time in seconds
+     let mut s=0_f64;   //variable s is total distance travelled
 
 
     println!("Enter the value of acceleration a :");
